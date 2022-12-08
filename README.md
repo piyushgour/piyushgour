@@ -1,16 +1,16 @@
 ![Profile views](https://gpvc.arturio.dev/piyushgour) ![Website](https://img.shields.io/website?down_message=offline&up_color=dark%20green&up_message=up&url=http%3A%2F%2Fwww.piyushgour.in)
 ### Hi there 👋, Piyush Gour
 #### A passionate DevOps Engineer from India
-- I am **DevOps Engineer** | **Cloud Engineer (AWS/Azure)** | **1xAWS | 2xAzure Certified** | **Learner**. 
+- I am **DevOps Engineer** | **Cloud Engineer (AWS/Azure)** | **CKA | AWS | 2xAzure Certified** | **Learner**. 
 - I am always excited to learn new tools/technology in computer world. 
 
-Skills: AWS Cloud, Azure Cloud, Terraform, Linux, Scripting, CICD etc
+Skills: AWS Cloud, Azure Cloud,Kubernetes, Terraform, Linux, Scripting, CICD etc
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="40"/> </a> <a href="https://portal.azure.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="Azure" width="60" height="40"/> </a> <a href="https://www.terraform.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-- 🔭 I’m currently working on Ansible and Pre-Commit hooks 
-- 🌱 I’m currently learning Kubernetes 
-- 💬 Ask me about AWS Cloud, Terraform, Linux, CICD, GitLab, Jenkins etc. 
+- 🔭 I’m currently working on DevOps tools for automation. 
+- 🌱 I’m currently learning Kubernetes Security 
+- 💬 Ask me about AWS Cloud, Terraform, Kubernetes, Linux, CICD, GitLab, Jenkins etc. 
 - 📫 How to reach me: piyush.gour93@gmail.com 
 
 
