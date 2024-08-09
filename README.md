@@ -1,7 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/piyushgour) ![Website](https://img.shields.io/website?down_message=offline&up_color=dark%20green&up_message=up&url=http%3A%2F%2Fwww.piyushgour.in)
 ### Hi there 👋, Piyush Gour
 #### A passionate DevOps Engineer from India
-- I am **DevOps Engineer** | **Cloud Engineer (AWS/Azure)** | **CKA | AWS | 2xAzure Certified** | **Learner**. 
+- I am **DevOps Architect** | **Cloud Engineer (AWS/Azure)** | **CKA | 2xAWS | 2xAzure** | **Learner**. 
 - I am always excited to learn new tools/technology in computer world. 
 
 **Skills:** AWS Cloud, Azure Cloud,Kubernetes, Terraform, Linux, Scripting, CICD etc
